@@ -1,0 +1,28 @@
+{
+  "avg_path": 0.9523809523809523,
+  "edges": 210,
+  "nodes": 21,
+  "num_components": 1,
+  "top_closeness": [
+    [
+      "Foothill",
+      1.0
+    ],
+    [
+      "Devonshire",
+      1.0
+    ],
+    [
+      "West LA",
+      1.0
+    ],
+    [
+      "Van Nuys",
+      1.0
+    ],
+    [
+      "N Hollywood",
+      1.0
+    ]
+  ]
+}
