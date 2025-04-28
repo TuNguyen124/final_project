@@ -1,4 +1,4 @@
-﻿# ignore all raw and large data files
-/data/
-/data/*
+﻿/data/*
 !/data/day_area.csv
+/target/
+/**/*.rs.bk
