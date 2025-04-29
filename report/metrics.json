@@ -1,28 +1,43 @@
 {
-  "avg_path": 0.9523809523809523,
-  "edges": 210,
-  "nodes": 21,
-  "num_components": 1,
-  "top_closeness": [
+  "avg_path": 0.9521547142445586,
+  "components": 1904,
+  "edges": 383387,
+  "nodes": 38530,
+  "top5_closeness": [
     [
-      "Hollenbeck",
-      1.0
+      [
+        "2025-03-27",
+        "Harbor"
+      ],
+      38529.0
     ],
     [
-      "77th Street",
-      1.0
+      [
+        "2025-02-08",
+        "Southwest"
+      ],
+      38529.0
     ],
     [
-      "West Valley",
-      1.0
+      [
+        "2025-01-18",
+        "Southwest"
+      ],
+      38529.0
     ],
     [
-      "Central",
-      1.0
+      [
+        "2025-01-23",
+        "Harbor"
+      ],
+      38529.0
     ],
     [
-      "Newton",
-      1.0
+      [
+        "2025-02-28",
+        "Devonshire"
+      ],
+      38529.0
     ]
   ]
 }
